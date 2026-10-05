@@ -39,6 +39,7 @@ I have worked in environments where availability, segmentation, and security are
 * **Cisco & Fortinet Systems**
 * **SIEM / EDR Integration**
 * **Network Infrastructure**
+* **Cloud**
 
 ---
 
